@@ -10,7 +10,8 @@ The goal is to move beyond a conventional launch playbook and build a decision s
 
 *Figure 1. Project Overview*
 
-<img width="4400" height="2475" alt="GTM Project Overview V2" src="https://github.com/user-attachments/assets/0f69bdd4-48ab-4b27-a1db-807c39d34c90" />
+<img width="4400" height="2475" alt="GTM Project Overview V2" src="https://github.com/user-attachments/assets/38da2afc-3f6e-47ec-94b0-4747f7419943" />
+
 
 ---
 
@@ -22,7 +23,7 @@ This included an analysis of the GLP-1 market (see figure 1 below), competitive 
 
 *Figure 2. Market Breakdown*
 
-<img width="650" height="450" alt="Backup" src="https://github.com/user-attachments/assets/09762c53-2f27-42b4-b8a6-efdb1cae5b68" />
+<img width="650" height="450" alt="GLP1 Target Market" src="https://github.com/user-attachments/assets/34eda982-e59e-40ed-8c93-b1b1551b7779" />
 
 The output of this phase is a single-page strategic overview, captured in the FigJam whiteboard linked below.
 
@@ -36,7 +37,7 @@ In Phase 2, we built a propensity-to-prescribe model using simulated HCP data an
 
 *Figure 3. Geographic Distribution of Potential Rabivy Prescribers*
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e090c52b-5c30-44e1-95bf-b0d992d4ea2b" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/caea57ef-c022-491e-9740-696c02c23f68" />
 
 ---
 
@@ -46,7 +47,7 @@ In Phase 3, we built a rep-facing dashboard that allows commercial users to filt
 
 *Figure 4. Rabivy Propensity Dashboard*
 
-<img width="895" height="484" alt="image" src="https://github.com/user-attachments/assets/9e48eb80-43b8-4f10-8c27-37abd6a9f6ad" />
+<img width="897" height="488" alt="image" src="https://github.com/user-attachments/assets/13d5403e-90a6-4353-ae73-1fb0e9a42b05" />
 
 
 ---
