@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+   - phase3_rabivy_propensity_dashboard.html
+
+website:
+  title: "Rabivy GTM Strategy"
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - text: "Propensity Model"
+        href: phase2_rabivy_propensity_model.html
+      - text: "Propensity Dashboard"
+        href: phase3_rabivy_propensity_dashboard.html
+
+execute:
+  freeze: auto
+
+ 
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
