@@ -1155,7 +1155,9 @@ frequent dosing regimens.
 knitr::include_graphics("image/GLP1 Target Market.png")
 ```
 
+## Conclusion
 
+These insights can then be summarised in a rep facing dashboard that sales reps can use to target key HCPs.
 
 ```{r saving-data}
 #| eval: false
