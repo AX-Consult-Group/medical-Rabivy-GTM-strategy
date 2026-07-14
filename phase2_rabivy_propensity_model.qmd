@@ -881,7 +881,7 @@ hcp_df$propensity_rank <- rank(-hcp_df$propensity_score)  # 1 = highest propensi
 
 hcp_df$tier <- cut(
   hcp_df$propensity_score,
-  breaks = quantile(hcp_df$propensity_score, probs = c(0, 0.5, 0.85, 1)),
+  breaks = quantile(hcp_df$propensity_score, probs = c(0, 0.5, 0.95, 1)),
   labels = c("Watch", "Medium", "High"),
   include.lowest = TRUE
 )
@@ -1160,7 +1160,6 @@ knitr::include_graphics("image/GLP1 Target Market.png")
 These insights can then be summarised in a rep facing dashboard that sales reps can use to target key HCPs.
 
 ```{r saving-data}
-#| eval: false
 #| include: false
 # Date code
 current_date <- Sys.Date()
